@@ -12,5 +12,6 @@ public class Main {
         adapterForSolar.charge();
         adapterForGenerator.charge();
         adapterForGeneratorMac.charge();
+        //er
     }
 }
